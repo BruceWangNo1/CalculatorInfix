@@ -5,6 +5,7 @@
 //  Created by Bruce Wang on 3/14/15.
 //  Copyright (c) 2015 Bruce Wang. All rights reserved.
 //
+//  This is inspired from Stanford University Open Course Developing iOS Apps with Swift and modified by Bruce Wang
 
 import UIKit
 
